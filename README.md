@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aakanksha Singh
+Hi ! My name is Aakanksha Singh
 =====================================================================================================================================
 
 Python Developer, Web Developer, and Designer (Learner)
@@ -9,7 +9,7 @@ I'm an enthusiastic beginner in the exciting realms of Python programming and we
 * 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [aakanksha15592@gmail.com](mailto:aakanksha15592@gmail.com)
 * 🧠  I'm learning Front-end development, JS, Angular, React, Python development, Back-end with Python (Django and Flask), Data Analytics, Web Automation
-* 🤝  I'm open to collaborating on Python-based projects, Data Analytics, and Front-end and Full Stack web development contributions.
+* 🤝  I'm open to collaborating on Python-based projects, Data Analytics, and Front-end and full-stack web development contributions.
 
 ### Skills
 
